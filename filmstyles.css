@@ -1,0 +1,20 @@
+/* Selector */
+h1 {
+  color: #454647;
+  font-size: 1.7rem;
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  color: #454647;
+  font-size: 1.2rem;
+  font-family: Verdana, sans-serif;
+}
+
+img {
+  width: 250px
+}
+
+body {
+  background-color: #ACADAE;
+}
